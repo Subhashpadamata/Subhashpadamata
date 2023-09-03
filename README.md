@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Subhash Padamata 
+### Hi there 👋 my name is Subhash Padamata my repositories are displayed below.
 
 <!--
 **Subhashpadamata/Subhashpadamata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
